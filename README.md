@@ -1,12 +1,6 @@
 <div align="center">
 
-# Hi there, I'm S Krishnan 👋
-
-### 🚀 Aspiring Software Engineer • Full-Stack Developer
-
-*Turning ideas into scalable, real-world software — one clean commit at a time.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Apps;Learning+System+Design+%26+DevOps;Exploring+Cloud+%26+AI;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
+<img src="./banner.svg" width="100%" alt="S Krishnan banner" />
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sskrishnan03@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=sskrishnan03&style=for-the-badge&color=blue)](https://visitcount.itsvg.in)
@@ -17,7 +11,8 @@
 
 ### 🧭 About Me
 
-- 🎓 Final-year student, passionate about **full-stack development** and **clean architecture**
+Passionate about building modern, responsive, and scalable web applications with clean code and intuitive user experiences. I enjoy turning ideas into real-world solutions, continuously learning new technologies, and creating projects that strengthen my skills as a developer. My goal is to build impactful software, contribute to meaningful products, and grow into a professional software engineer.
+
 - 🔭 Currently building **production-ready web applications** and a **personal developer portfolio**
 - 🌱 Deepening my knowledge of **React, Next.js, TypeScript, Node.js, System Design & Cloud/DevOps**
 - 🤝 Looking to **contribute to open source** and collaborate on meaningful projects
