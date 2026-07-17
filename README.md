@@ -2,9 +2,9 @@
 
 # Hi, I'm S Krishnan
 
-### Full-Stack Developer crafting modern, fast, and reliable digital experiences.
+### Turning ideas into thoughtful software through curiosity, creativity, and continuous learning.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8EF7&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Developer;Cloud+Computing;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8EF7&width=520&lines=Software+Engineering;Full-Stack+Development;Cloud+Computing;Backend+Development;Always+Learning+Something+New" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I enjoy turning ideas into real-world applications through clean code, thoughtful design, and scalable development. Every project is an opportunity to learn, improve, and build software that's simple, reliable, and impactful.
+I'm an aspiring software engineer who enjoys transforming ideas into modern, scalable, and user-focused applications. I love exploring new technologies, solving real-world problems, and continuously improving my skills through hands-on projects while writing clean, maintainable, and efficient code. Every project is an opportunity to learn, innovate, and build software that creates meaningful experiences.
 
 ---
 
