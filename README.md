@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F8EF7&width=650&lines=Creating+Modern+Digital+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Clean+Code+%7C+Scalable+Solutions;Always+Curious,+Always+Improving" />
 
 </div>
+
 ---
+
 ## About Me
 
 I'm an aspiring software engineer who enjoys transforming ideas into modern, scalable, and user-focused applications. I love exploring new technologies, solving real-world problems, and continuously improving my skills through hands-on projects while writing clean, maintainable, and efficient code. Every project is an opportunity to learn, innovate, and build software that creates meaningful experiences.
