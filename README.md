@@ -1,28 +1,221 @@
-# 💫 About Me:
-Hi, I'm S Krishnan<br><br>🚀 Aspiring Software Engineer • Full-Stack Developer<br><br>Passionate about building modern, responsive, and scalable web applications with clean code and intuitive user experiences. I enjoy turning ideas into real-world solutions, continuously learning new technologies, and creating projects that strengthen my skills as a developer. My goal is to build impactful software, contribute to meaningful products, and grow into a professional software engineer.<br><br>----------<br>🔭 Currently Working On<br><br>🚀 Full-Stack Web Applications<br>💼 Personal Developer Portfolio<br>🧩 Real-World Software Projects<br>⚡ Clean & Scalable Code<br>📚 Advanced Backend Development<br><br>---<br>🌱 Currently Learning<br><br>⚛️ React & Next.js<br>📘 TypeScript<br>🖥️ Node.js & Express.js<br>☁️ AWS Cloud Computing<br>🏗️ System Design<br>🐳 Docker & DevOps<br>🔐 Authentication & Security<br><br>---<br>🎯 Goals for 2026<br>✅ Build Production-Ready Applications<br>✅ Master Data Structures & Algorithms<br>✅ Learn Advanced System Design<br>✅ Gain Cloud & DevOps Expertise<br>✅ Contribute to Open Source<br>✅ Strengthen My GitHub Portfolio<br>✅ Start My Career as a Software Engineer<br><br>---<br>💡 Motto<br><br>"Code with purpose. Learn continuously. Build solutions that matter."<br><br>---<br>⭐ Thanks for Visiting!<br>Building today. Learning every day. Creating for tomorrow. 🚀<br>
- 
- 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sskrishnan03@gmail.com) 
- 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sskrishnan03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sskrishnan03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sskrishnan03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sskrishnan03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sskrishnan03&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
+<div align="center">
+
+# S Krishnan
+
+### Software Engineer • Full Stack Developer • Cloud Enthusiast
+
+Building modern applications with scalable architecture, clean code, and exceptional user experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Cloud+%26+DevOps+Learner;Building+Production+Ready+Applications;Always+Learning+Something+New" />
+
+<p>
+
+<a href="mailto:sskrishnan03@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sskrishnan03">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</div>
+
 ---
-[![](https://komarev.com/ghpvc/?username=sskrishnan03&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
- 
-This is Github Prof you make it the best looking like you make it incredible It has to look amazing like if the any kind of user sees this they have to like incredibly they have to something like that I want the design of it I like that you give me the best out of it You make it the best best best all of it
- 
+
+# About Me
+
+I'm a software developer passionate about creating scalable web applications, intelligent software, and modern digital experiences.
+
+I enjoy transforming ideas into real-world products while continuously learning new technologies and improving my engineering skills.
+
+Currently focused on becoming a professional Software Engineer through real-world projects, cloud technologies, and backend development.
+
+---
+
+# Currently Building
+
+• Production Ready Full Stack Applications
+
+• Personal Developer Portfolio
+
+• AI Powered Projects
+
+• Backend APIs
+
+• Cloud Based Applications
+
+• Open Source Projects
+
+---
+
+# Currently Learning
+
+React
+
+Next.js
+
+TypeScript
+
+Node.js
+
+Express.js
+
+AWS
+
+Docker
+
+System Design
+
+Authentication
+
+DevOps
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,git,github"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,arduino"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+### AI Desktop Assistant
+
+AI-powered desktop automation platform capable of managing applications, browser automation, AI chat, memory, and workflows.
+
+---
+
+### Personal Portfolio
+
+Modern responsive developer portfolio showcasing projects, achievements, certifications, and skills.
+
+---
+
+### AI Notebook
+
+Smart note-taking platform powered by AI with search, organization, and productivity features.
+
+---
+
+### Full Stack Applications
+
+Scalable web applications built using React, Node.js, FastAPI, Firebase, and modern development practices.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sskrishnan03&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskrishnan03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sskrishnan03&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sskrishnan03&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sskrishnan03&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 2026 Goals
+
+- Build production-grade software
+- Master Data Structures & Algorithms
+- Become proficient in System Design
+- Gain Cloud & DevOps expertise
+- Contribute to Open Source
+- Strengthen GitHub portfolio
+- Start career as Software Engineer
+
+---
+
+# Quote
+
+> "Code with purpose. Learn continuously. Build solutions that matter."
+
+---
+
+<div align="center">
+
+Thanks for visiting.
+
+Building today.
+
+Learning every day.
+
+Creating for tomorrow.
+
+</div>
