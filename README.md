@@ -1,10 +1,14 @@
-<div align="left">
+<div align="center">
 
 # Hi, I'm S Krishnan
 
-### Turning ideas into thoughtful software through curiosity, creativity, and continuous learning.
+### Transforming ideas into meaningful software through innovation, curiosity, and continuous growth.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8EF7&width=520&lines=Software+Engineering;Full-Stack+Development;Cloud+Computing;Backend+Development;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering;Full-Stack+Development;Cloud+Computing;Backend+Development;Building+Solutions+That+Matter" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=90&section=footer"/>
 
 </div>
 
@@ -12,53 +16,14 @@
 
 ## About Me
 
-I'm an aspiring software engineer who enjoys transforming ideas into modern, scalable, and user-focused applications. I love exploring new technologies, solving real-world problems, and continuously improving my skills through hands-on projects while writing clean, maintainable, and efficient code. Every project is an opportunity to learn, innovate, and build software that creates meaningful experiences.
+I'm an aspiring software engineer driven by curiosity and a passion for building software that is clean, scalable, and user-focused. I enjoy turning ideas into real-world applications, exploring modern technologies, and continuously growing through hands-on projects that challenge me to learn, improve, and create meaningful solutions.
 
 ---
 
 ## Tech Stack
 
-### Languages
-<p>
-<a href="https://en.cppreference.com/w/c/language" title="C Programming Language"><img src="https://skillicons.dev/icons?i=c" height="42"/></a>
-<a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="42"/></a>
-<a href="https://python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="42"/></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42"/></a>
-<a href="https://typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" height="42"/></a>
-</p>
-
-### Frontend
-<p>
-<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="42"/></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="42"/></a>
-<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="42"/></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="42"/></a>
-</p>
-
-### Backend
-<p>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="42"/></a>
-<a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="42"/></a>
-<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/></a>
-</p>
-
-### Database
-<p>
-<a href="https://mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="42"/></a>
-<a href="https://sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="42"/></a>
-<a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" height="42"/></a>
-<a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="42"/></a>
-</p>
-
-### Cloud • DevOps • Tools
-<p>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="42"/></a>
-<a href="https://docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="42"/></a>
-<a href="https://jenkins.io/" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" height="42"/></a>
-<a href="https://ansible.com/" title="Ansible"><img src="https://skillicons.dev/icons?i=ansible" height="42"/></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="42"/></a>
-<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="42"/></a>
-<a href="https://figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" height="42"/></a>
-<a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" height="42"/></a>
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mysql,sqlite,firebase,supabase,aws,docker,jenkins,ansible,git,github,vscode,figma,vercel&perline=13" />
+</a>
 </p>
