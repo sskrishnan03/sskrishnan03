@@ -1,9 +1,10 @@
 <div align="left">
-# Hi, I'm S Krishnan
 
-### Building software that solves real problems and creates meaningful experiences.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> S Krishnan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F8EF7&width=620&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Frontend+%7C+Backend+Development;Cloud+%26+DevOps;Always+Learning+%26+Building" />
+### Software Engineer • Full-Stack Development • Cloud • DevOps
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4F8EF7&width=650&lines=Creating+Modern+Digital+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Clean+Code+%7C+Scalable+Solutions;Always+Curious,+Always+Improving" />
 
 </div>
 
