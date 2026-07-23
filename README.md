@@ -6,13 +6,11 @@
 
 </div>
 
----
 
 ## About Me
 
 I'm an aspiring software engineer who enjoys transforming ideas into modern, scalable, and user-focused applications. I love exploring new technologies, solving real-world problems, and continuously improving my skills through hands-on projects while writing clean, maintainable, and efficient code. Every project is an opportunity to learn, innovate, and build software that creates meaningful experiences.
 
----
 
 ## Tech Stack
 
