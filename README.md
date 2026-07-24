@@ -39,5 +39,4 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" height="42"/></a>
 <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" height="42"/></a>
 <a href="https://render.com/" title="Render"><img src="https://cdn.simpleicons.org/render" height="42" alt="Render"/></a>
-<a href="https://openai.com/" title="OpenAI"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="42"alt="OpenAI"/></a>
-</p>
+<a href="https://openai.com/" title="OpenAI"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="42" alt="OpenAI"/></a></p>
