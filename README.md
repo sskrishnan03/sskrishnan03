@@ -40,7 +40,4 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" height="42"/></a>
 <a href="https://render.com/" title="Render"><img src="https://skillicons.dev/icons?i=render" height="42" alt="Render"/></a>
 <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai" height="42" alt="OpenAI"/></a>
-<a href="https://git-scm.com/" title="Git Bash"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git Bash"/></a>
-<a href="https://openai.com/" title="Prompt Engineering"><img src="https://cdn.simpleicons.org/openai" height="42" alt="Prompt Engineering"/></a>
-<a href="https://openai.com/" title="Generative AI"><img src="https://cdn.simpleicons.org/openai" height="42" alt="Generative AI"/></a>
 </p>
