@@ -25,11 +25,9 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="42"/></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="42"/></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="42"/></a>
-<a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="42"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/></a>
 <a href="https://mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="42"/></a>
 <a href="https://sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="42"/></a>
-<a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" height="42"/></a>
 <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="42"/></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="42"/></a>
 <a href="https://docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="42"/></a>
@@ -40,5 +38,9 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="42"/></a>
 <a href="https://figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" height="42"/></a>
 <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" height="42"/></a>
-<a href="https://render.com/" title="render"><img src="https://skillicons.dev/icons?i=render" height="42"/></a>
+<a href="https://render.com/" title="Render"><img src="https://skillicons.dev/icons?i=render" height="42" alt="Render"/></a>
+<a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai" height="42" alt="OpenAI"/></a>
+<a href="https://git-scm.com/" title="Git Bash"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git Bash"/></a>
+<a href="https://openai.com/" title="Prompt Engineering"><img src="https://cdn.simpleicons.org/openai" height="42" alt="Prompt Engineering"/></a>
+<a href="https://openai.com/" title="Generative AI"><img src="https://cdn.simpleicons.org/openai" height="42" alt="Generative AI"/></a>
 </p>
