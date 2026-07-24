@@ -23,7 +23,7 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" height="42"/></a>
 </p>
 
-### Frontend
+
 <p>
 <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="42"/></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="42"/></a>
@@ -31,14 +31,13 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="42"/></a>
 </p>
 
-### Backend
 <p>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="42"/></a>
 <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="42"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/></a>
 </p>
 
-### Database
+
 <p>
 <a href="https://mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="42"/></a>
 <a href="https://sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="42"/></a>
@@ -46,7 +45,6 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="42"/></a>
 </p>
 
-### Cloud • DevOps • Tools
 <p>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="42"/></a>
 <a href="https://docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="42"/></a>
