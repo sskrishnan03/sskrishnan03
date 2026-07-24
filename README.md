@@ -14,38 +14,23 @@ I'm an aspiring software engineer who enjoys transforming ideas into modern, sca
 
 ## Tech Stack
 
-### Languages
 <p>
 <a href="https://en.cppreference.com/w/c/language" title="C Programming Language"><img src="https://skillicons.dev/icons?i=c" height="42"/></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="42"/></a>
 <a href="https://python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="42"/></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="42"/></a>
 <a href="https://typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" height="42"/></a>
-</p>
-
-
-<p>
 <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="42"/></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="42"/></a>
 <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="42"/></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="42"/></a>
-</p>
-
-<p>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="42"/></a>
 <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="42"/></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="42"/></a>
-</p>
-
-
-<p>
 <a href="https://mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="42"/></a>
 <a href="https://sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="42"/></a>
 <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" height="42"/></a>
 <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="42"/></a>
-</p>
-
-<p>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="42"/></a>
 <a href="https://docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="42"/></a>
 <a href="https://jenkins.io/" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" height="42"/></a>
